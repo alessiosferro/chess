@@ -1,0 +1,19 @@
+.main-container {
+    display: flex;
+    background-color: #000;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.chessboard-canvas {
+    background-color: saddlebrown;
+    margin: 5rem;
+    padding: 2rem;
+    border: .5rem solid #F7EAD7;
+}
+
+
+/*DARK C77836*/
+/*LIGHT F7EAD7*/
